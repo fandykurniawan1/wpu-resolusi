@@ -3,6 +3,10 @@ RENCANA CONTENT WPU
 - Javascript
   * ES6
   * framwork javascript
+  ^ View
+  ^ React
 - PHP Framworks
+ ^ Laravel
 - Interview
 - Vlogs
+- Python
