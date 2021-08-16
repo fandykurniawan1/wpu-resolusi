@@ -4,6 +4,7 @@ RENCANA CONTENT WPU
   * ES6
   * framwork javascript
   ^ View
+  ^ React
 - PHP Framworks
  ^ Laravel
 - Interview
